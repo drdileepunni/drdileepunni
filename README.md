@@ -1,4 +1,4 @@
-👋 Hi, I’m @drdileepunni. I am a doctor by training and a data nerd by making. Most of the code I write are for work and are cant be put in 
+👋 Hi, I’m @drdileepunni. I am a doctor by training and a data nerd by making. Most of the code I write are for work and cant be put in 
 public repositories. My cleanly written public code repos are mostly projects with folks interning with us and research collabs. Sharing the 
 links to those here
 - https://github.com/drdileepunni/antibiotic_study
