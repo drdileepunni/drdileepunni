@@ -2,7 +2,6 @@
 public repositories. My cleanly written public code repos are mostly projects with folks interning with us and research collabs. Sharing the 
 links to those here
 - https://github.com/drdileepunni/antibiotic_study
-- https://github.com/drdileepunni/di_prospective_validation
 
 👀 I’m interested in: Very generally, leveraging data to improve healthcare experience both for providers and patients. Specifically, I am intersted in
 probabilistic graphical models and bayesian decision trees. 
